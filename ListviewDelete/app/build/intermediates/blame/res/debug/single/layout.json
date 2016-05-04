@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\studio1\\ListviewDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\studio1\\ListviewDelete\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\studio1\\ListviewDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popupwindow.xml",
+        "source": "G:\\studio1\\ListviewDelete\\app\\src\\main\\res\\layout\\layout_popupwindow.xml"
+    },
+    {
+        "merged": "G:\\studio1\\ListviewDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "G:\\studio1\\ListviewDelete\\app\\src\\main\\res\\layout\\item.xml"
+    }
+]
